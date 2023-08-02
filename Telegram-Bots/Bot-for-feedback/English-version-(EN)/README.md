@@ -29,7 +29,7 @@ python main.py
 
 # Functionality
 
-### Commands
+### Commands:
 1. /start - Begin communication with the bot.
 2. /chat_info - Get information about the user and the chat.
 

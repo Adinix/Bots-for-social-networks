@@ -1,11 +1,11 @@
-# Мои боты на GitHub
+# My bots on GitHub
 
-В этом репозитории содержатся различные боты, созданные мной для различных проектов.
+This repository contains various bots that I have created for various projects.
 
-## Список ботов
+## List of bots
 
-1. [Bot for feedback](Telegram-Bots/Bot-for-feedback) - Когда боту пишут, бот пересылает сообщения с группу и если в группе ответить на сообщение, оно пересылаеться назад пользователю
+1. [Bot for feedback](Telegram-Bots/Bot-for-feedback) - When the bot is written, the bot sends messages to the group and if the group responds to the message, it is sent back to the user
 
-Пока что это всё 😥
+For now, that's all
 
-## Больше информации о ботах можно найти в репозиториях самих ботов
+## More information about bots can be found in the bot repositories
